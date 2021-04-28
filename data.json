@@ -1,0 +1,34 @@
+   
+  
+   [
+    {
+        "id":"1", "text": "Home", "url": "home" 
+    },
+    {
+        "id":"2", "text": "Services", "url": "services" 
+    },
+    {
+        "id":"3", "text": "Infrastructure", "url": "infrastructure"
+    },   
+    {
+        "id":"4", "text": "Awards", "url": "awards" 
+    },
+    {
+        "id":"5", "text": "Events", "url": "events" 
+    },
+    {
+        "id":"6", "text": "Directory", "url": "directory" 
+    },
+    {
+        "id":"7", "text":"Contact Us", "url": "contactUs"   
+    },
+    {
+        "id":"8", "text": "Helpdesk", "url": "https://servicedesk.nic.in/"
+    }
+]
+
+
+
+
+
+
